@@ -1,0 +1,26 @@
+{
+"name": "a-paradigm-shift",
+"version": "1.0.0",
+"description": "a paradigm shift in [insert industry/field]",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/justinqxtuwx/a-paradigm-shift.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "justinqxtuwx",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
